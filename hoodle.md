@@ -1,17 +1,4 @@
 ---
 title: hoodle
-layout: about
+layout: minimal 
 ---
-
-Test
-```python
-test
-```
-
-`test`
-
-*test*
-
-
-----
-test
