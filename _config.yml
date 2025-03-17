@@ -1,8 +1,9 @@
 title: hoodle 
 description: h o o d l e
 theme: just-the-docs
+color_scheme: dark
 
 url: https://efourd.github.io/hoodle.io
 
 aux_links:
-  mail: http://mail.hoodle.io
+  ✉️: http://mail.hoodle.io
