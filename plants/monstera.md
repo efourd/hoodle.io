@@ -3,6 +3,16 @@ parent: plants
 title: The Monstera-Mash 
 layout: minimal 
 ---
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Burle Marx Flame
 ![](plants/imgs/monst_burle_marx_flame.jpeg)
 

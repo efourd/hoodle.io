@@ -4,6 +4,15 @@ title: The Philo Den
 layout: minimal 
 ---
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 # Billietiae
 
 ![](./imgs/philo/philo_billietiae.jpeg)
